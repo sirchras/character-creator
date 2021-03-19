@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  text-decoration: none;
+}
