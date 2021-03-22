@@ -7,7 +7,7 @@
 }
 
 .footer a {
-  color: white;
+  color: inherit;
 }
 
 .footer a:hover {
