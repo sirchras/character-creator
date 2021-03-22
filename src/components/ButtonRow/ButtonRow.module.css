@@ -1,2 +1,5 @@
 .buttonRow {
+  height: 70px;
+  overflow-x: auto;
+  white-space: nowrap;
 }
